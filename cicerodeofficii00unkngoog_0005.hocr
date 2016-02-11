@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cicerodeofficii00unkngoog_0005.png"; bbox 0 0 2685 3938; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 310 242 1207 338">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 310 242 1207 338">
+     <span class='ocr_line' id='line_1_1' title="bbox 310 242 1207 338; baseline -0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 310 242 506 338; x_wconf 89' lang='lat' dir='ltr'>Pitt</span> <span class='ocrx_word' id='word_1_2' title='bbox 578 244 842 336; x_wconf 85' lang='lat' dir='ltr'>Press</span> <span class='ocrx_word' id='word_1_3' title='bbox 918 242 1207 336; x_wconf 85' lang='lat' dir='ltr'>Series</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 424 1742 1980 1839">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 424 1742 1980 1839">
+     <span class='ocr_line' id='line_1_2' title="bbox 424 1742 1980 1839; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 424 1743 959 1839; x_wconf 86' lang='lat' dir='ltr'><strong>CICERO</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1060 1745 1255 1837; x_wconf 88' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_6' title='bbox 1352 1742 1980 1839; x_wconf 87' lang='lat' dir='ltr'><strong>OFFICIIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 939 1995 1495 2073">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 939 1995 1495 2073">
+     <span class='ocr_line' id='line_1_3' title="bbox 939 1995 1495 2073; baseline -0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 939 1995 1246 2073; x_wconf 89' lang='lat' dir='ltr'><strong>BOOK</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1345 1996 1495 2072; x_wconf 90' lang='lat'><em>111.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
